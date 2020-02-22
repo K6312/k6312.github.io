@@ -74,7 +74,7 @@ These are individual homework and lab assignments. For the lab assignments, you 
 Project title selection due: see the class schedule
 Project due date: see the class schedule
 
-This is a group project (the size of each group will be announced later). All team members will receive the same grade. This project will account for **30%** of the overall grade. **Please e-mail the lecturer your project title by the project title selection due date.** Include the names of team members in the message.
+This is a group project (the size of each group will be announced later). All team members will receive the same grade. This project will account for **30%** of the overall grade. **Please submit your project title via NTUlearn->assignment->K6312 Project Proposal by the project title selection due date.** Include the names of team members in the message.
 
 This is a data mining project where you collect your own sample dataset or use an existing dataset, and using data mining techniques and tools, build an interesting model that mines and analyzes knowledge/information from the dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting model (or application). Then, write a project report explaining your methodology and presenting the results.
 

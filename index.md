@@ -131,10 +131,10 @@ Thursday 02/06 | Logistic Regression | [Slides & Notebook](slides/week4LR.zip) |
 Thursday 02/13 | Decision Tree |[Slides](slides/Week5_DT1.pdf) | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 02/20 | Ensemble Learning| [Slides & Notebook](slides/week6.zip) |<font color='SeaGreen'>Project Title Submission</font>
 Thursday 02/27 | Neural Networks| [slides & Notebook](slides/week7.zip) | **Additional In-class Assignment**
-Thursday 03/12 | Support Vector Machine | TBU | N.A.
-Thursday 03/19 | Interpretability of Machine Learning | TBU | N.A.
-Thursday 03/26 | Unsupervised Learning (Clustering) | TBU | <font color='SeaGreen'>In-class Assignment</font>
-Thursday 04/02 | Introduction to Deep Learning | TBU| N.A.
+Thursday 03/12 | Introduction to Deep Learning | TBU| N.A.      
+Thursday 03/19 | Support Vector Machine | TBU | N.A.
+Thursday 03/26 | Interpretability of Machine Learning | TBU | N.A.    
+Thursday 04/02 | Unsupervised Learning (Clustering) | TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/09 | Group Presentation | TBU | N.A.
 Thursday 04/16 | Group Presentation & Key Points Review | TBU | N.A.
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>

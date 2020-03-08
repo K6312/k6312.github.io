@@ -130,8 +130,8 @@ Thursday 01/30 | Linear Regression  | [Slides](slides/Week3_LinearRegression1.pd
 Thursday 02/06 | Logistic Regression | [Slides & Notebook](slides/week4LR.zip) | N.A.
 Thursday 02/13 | Decision Tree |[Slides](slides/Week5_DT1.pdf) | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 02/20 | Ensemble Learning| [Slides & Notebook](slides/week6.zip) |<font color='SeaGreen'>Project Title Submission</font>
-Thursday 02/27 | Neural Networks| [slides & Notebook](slides/week7.zip) | **Additional In-class Assignment**
-Thursday 03/12 | Introduction to Deep Learning | TBU| N.A.      
+Thursday 02/27 | Neural Networks| [Slides & Notebook](slides/week7.zip) | **Additional In-class Assignment**
+Thursday 03/12 | Introduction to Deep Learning | [Slides & Notebook](slides/week8.zip)| N.A.      
 Thursday 03/19 | Support Vector Machine | TBU | N.A.
 Thursday 03/26 | Interpretability of Machine Learning | TBU | N.A.    
 Thursday 04/02 | Unsupervised Learning (Clustering) | TBU | <font color='SeaGreen'>In-class Assignment</font>

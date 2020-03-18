@@ -136,7 +136,7 @@ Thursday 03/19 | Support Vector Machine | [Slides & Notebook](slides/week9.zip) 
 Thursday 03/26 | Interpretability of Machine Learning | TBU | N.A.    
 Thursday 04/02 | Unsupervised Learning (Clustering) & Key Points Review| TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/09 | Group Presentation | TBU | N.A.
-Thursday 04/16 | Group Presentation & Key Points Review | TBU | **Final test (account for 30%)**
+Thursday 04/16 | Group Presentation & Final Test | TBU | **Final test (account for 30%)**
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
 

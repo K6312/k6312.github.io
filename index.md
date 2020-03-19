@@ -57,6 +57,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 - [Honor Code](honorcode.md)
 
 ## <font color='Red'>Announcement</font>
+> - *2020-03-19*: Zoom URL: https://zoom.us/j/150749230?pwd=clVuUVgrQUp4dVg4QW5OVzRLTXFEQT09
 > - *2020-02-27*: Zoom URL: https://zoom.us/j/142537741?pwd=dGIxeEU2Mm94US9oUzllWVdhakJWdz09
 > - *2020-02-20*: Zoom URL: https://zoom.us/j/169297572?pwd=OCtEM01lTVptY1RQOE5KUWk1eUhOdz09
 > - *2020-02-20*: We will start E-learning from this week via Zoom. The link will be announced before the class.

@@ -144,13 +144,13 @@ Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</fon
 ## Group Presentation 
 **No** |	**Title** |	**Group Members** | **Time**
 :----:  | ------- | :----: | ---------------
-1 | XXX | Liu Yuqi, Wang Xiao, Zhou Qi, Song Yajun, Zhou yifei| 04/09 6:30pm - 6:50pm
-2 | XXX | Zhang Liyuan, Ma Xiaoru, Luo Kexin, Luo Lan, Koh Swee Guan| 04/09 6:55pm - 7:15pm
-3 | XXX | Xiao Jieying, Long Haifei, Lin Jing, Li Yingtong | 04/09 7:20pm - 7:40pm
-4 | XXX | Yang Haiting, Tian Shuo, Chen Zhuojun, He Rui | 04/09 7:45pm - 8:05pm
-5 | XXX | Huang Baiqiuzi, Yao Mengjie, Guo Jindou, Liu Mengyao | 04/09 8:10pm - 8:30
-6 | XXX | Liu Yi, Yan Zhiruo, Wu Jiani, Xiang Mengjing | 04/09 8:35pm - 8:55pm
-7 | XXX | Priyadharshini, Swedha, Ng Yongrong Shaun | 04/09 9:00pm - 9:20pm
-8 | XXX | Pan Pan, Sun Mingyi, Li Minglu, Chen Zijia | 04/16 6:30pm - 6:50pm
-9 | XXX | Zhao Ziyu, Li Qianyuan, Zhang Yimeng, Wang Zhenjiang | 04/16 6:55pm - 7:15pm
-10 | XXX | Chen Yidian, Cai Jingyi, Zhong Churong, Yu Zeyuan | 04/16 7:20pm - 7:40pm
+1 | Comparison of Several Regression Models in Predicting 2019-nCov Epidemic Trends | Liu Yuqi, Wang Xiao, Zhou Qi, Song Yajun, Zhou yifei| 04/09 6:30pm - 6:50pm
+2 | Prediction of Heart Disease | Zhang Liyuan, Ma Xiaoru, Luo Kexin, Luo Lan, Koh Swee Guan| 04/09 6:55pm - 7:15pm
+3 | What Leads to Happiness in Asia | Xiao Jieying, Long Haifei, Lin Jing, Li Yingtong | 04/09 7:20pm - 7:40pm
+4 | What makes a surefire movie? | Yang Haiting, Tian Shuo, Chen Zhuojun, He Rui | 04/09 7:45pm - 8:05pm
+5 | Information Mining & Analysis on Cervical Cancer | Huang Baiqiuzi, Yao Mengjie, Guo Jindou, Liu Mengyao | 04/09 8:10pm - 8:30pm
+6 | Between PM2.5 And Wind Speed Based on Linear Regression Model | Liu Yi, Yan Zhiruo, Wu Jiani, Xiang Mengjing | 04/09 8:35pm - 8:55pm
+7 | Predicting product sales with machine learning and deep learning algorithms | Priyadharshini, Swedha, Ng Yongrong Shaun | 04/09 9:00pm - 9:20pm
+8 | Taxi Trip Time Prediction | Pan Pan, Sun Mingyi, Li Minglu, Chen Zijia | 04/16 6:30pm - 6:50pm
+9 | Hotel Booking Demand Analysis | Zhao Ziyu, Li Qianyuan, Zhang Yimeng, Wang Zhenjiang | 04/16 6:55pm - 7:15pm
+10 | Using multiple variables as regressors to predict box-office revenue | Chen Yidian, Cai Jingyi, Zhong Churong, Yu Zeyuan | 04/16 7:20pm - 7:40pm

@@ -155,3 +155,9 @@ Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</fon
 8 | Taxi Trip Time Prediction | Pan Pan, Sun Mingyi, Li Minglu, Chen Zijia | 04/16 6:30pm - 6:50pm
 9 | Hotel Booking Demand Analysis | Zhao Ziyu, Li Qianyuan, Zhang Yimeng, Wang Zhenjiang | 04/16 6:55pm - 7:15pm
 10 | Using multiple variables as regressors to predict box-office revenue | Chen Yidian, Cai Jingyi, Zhong Churong, Yu Zeyuan | 04/16 7:20pm - 7:40pm
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |

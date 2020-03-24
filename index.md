@@ -134,14 +134,14 @@ Thursday 02/20 | Ensemble Learning| [Slides & Notebook](slides/week6.zip) |<font
 Thursday 02/27 | Neural Networks| [Slides & Notebook](slides/week7.zip) | **Additional In-class Assignment**
 Thursday 03/12 | Introduction to Deep Learning | [Slides & Notebook](slides/week8.zip)| N.A.      
 Thursday 03/19 | Support Vector Machine | [Slides & Notebook](slides/week9.zip) | N.A.
-Thursday 03/26 | Interpretability of Machine Learning | TBU | N.A.    
+Thursday 03/26 | Interpretability of Machine Learning | [Slides](slides/week10.zip) | N.A.    
 Thursday 04/02 | Unsupervised Learning (Clustering) & Key Points Review| TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/09 | Group Presentation | TBU | N.A.
 Thursday 04/16 | Group Presentation & Final Test (**8:00pm - 9:30pm**)| TBU | **Final test (account for 30%)**
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
 
-## Group Presentation at Week 12 & 13
+## <font color='Red'>Group Presentation at Week 12 & 13</font>
 
 **No** |	**Title** |	**Group Members** | **Time**
 :----:  | ------- | :----: | ---------------

@@ -139,7 +139,7 @@ Thursday 04/02 | No Class| TBU | N.A.
 Thursday 04/09 | Unsupervised Learning (Clustering) & Key Points Review| TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/16 | Group Presentation | TBU | N.A.
 Thursday 04/23 | Group Presentation | TBU | N.A.
-Thursday 04/30 | Final Test (**7:00pm - 8:30pm**)| TBU | **Final Test (account for 30%)**
+Thursday 04/30 | Final Online Test (**7:00pm - 8:30pm**)| TBU | **account for 30% of Total Score**
 Thursday p.m 05/07 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
 <!--

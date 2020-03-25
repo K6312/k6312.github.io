@@ -140,7 +140,7 @@ Thursday 04/09 | Unsupervised Learning (Clustering) & Key Points Review| TBU | <
 Thursday 04/16 | Group Presentation | TBU | N.A.
 Thursday 04/23 | Group Presentation | TBU | N.A.
 Thursday 04/30 | Final Test (**7:00pm - 8:30pm**)| TBU | **Final Test (account for 30%)**
-Thursday p.m 05/7 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
+Thursday p.m 05/07 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
 <!--
 ## <font color='Red'>Group Presentation at Week 12 & 13</font>

@@ -136,7 +136,7 @@ Thursday 03/12 | Introduction to Deep Learning | [Slides & Notebook](slides/week
 Thursday 03/19 | Support Vector Machine | [Slides & Notebook](slides/week9.zip) | N.A.
 Thursday 03/26 | Interpretability of Machine Learning | [Slides](slides/week10.zip) | N.A.    
 Thursday 04/02 | No Class| TBU | N.A.
-Thursday 04/09 | Unsupervised Learning (Clustering) & Key Points Review| TBU | <font color='SeaGreen'>In-class Assignment</font>
+Thursday 04/09 | Unsupervised Learning (Clustering) & Key Points Review| [Slides & Notebook](slides/week11.zip) | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/16 | Group Presentation | TBU | N.A.
 Thursday 04/23 | Group Presentation | TBU | N.A.
 Thursday 04/30 | Final Online Test (**7:00pm - 8:30pm**)| TBU | **account for 30% of Total Score**
